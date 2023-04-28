@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Tabliss - A Beautiful New Tab",
-  "short_name": "Tabliss",
+  "name": "Tabliss Offline Quotes - A Beautiful New Tab",
+  "short_name": "Tabliss Offline Quotes",
   "version": "2.6.0",
   "description": "A beautiful New Tab page with many customisable backgrounds and widgets that does not require any permissions.",
   "chrome_url_overrides": {

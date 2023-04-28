@@ -1,12 +1,12 @@
 {
   "manifest_version": 2,
-  "name": "Tabliss",
-  "short_name": "Tabliss",
+  "name": "Tabliss Offline Quotes",
+  "short_name": "Tabliss Offline Quotes",
   "version": "2.6.0",
   "description": "A beautiful New Tab page with many customisable backgrounds and widgets that does not require any permissions.",
   "applications": {
     "gecko": {
-      "id": "extension@tabliss.io",
+      "id": "extension@tabliss_offline_quotes.io",
       "strict_min_version": "54.0"
     }
   },
