@@ -1,3 +1,7 @@
+Hacky fork with a quote workaround.
+
+For Firefox, get the forked extension from here: [https://addons.mozilla.org/en-US/firefox/addon/tabliss-offline-quotes/](https://addons.mozilla.org/en-US/firefox/addon/tabliss-offline-quotes/)
+
 <h1 align="center">Tabliss</h1>
 
 <p align="center">A beautiful, customisable New Tab page for Firefox and Chrome.</p>
