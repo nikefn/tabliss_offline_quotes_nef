@@ -19,7 +19,7 @@ const QuoteSettings: React.FC<Props> = ({ data = defaultData, setData }) => (
     <p>
       Powered by{" "}
       <a
-        href="https://theysaidso.com/"
+        href="/"
         target="_blank"
         rel="noopener noreferrer"
       >

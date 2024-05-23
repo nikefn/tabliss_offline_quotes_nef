@@ -1,168 +1,9 @@
 // https://github.com/dwyl/quotes
 export const quotes = [
-  {
-    "author": "Abraham Lincoln",
-    "text": "A house divided against itself cannot stand."
-  },
+
   {
     "author": "Abraham Lincoln",
     "text": "Important principles may, and must, be inflexible."
-  },
-  {
-    "author": "Abraham Lincoln",
-    "text": "I destroy my enemies when I make them my friends."
-  },
-  {
-    "author": "Abraham Lincoln",
-    "text": "You have to do your own growing no matter how tall your grandfather was."
-  },
-  {
-    "author": "Abraham Lincoln",
-    "text": "Most people are about as happy as they make up their minds to be"
-  },
-  {
-    "author": "Abraham Lincoln",
-    "text": "Most folks are about as happy as they make up their minds to be."
-  },
-  {
-    "author": "Abraham Lincoln",
-    "text": "Give me six hours to chop down a tree and I will spend the first four sharpening the axe."
-  },
-  {
-    "author": "Abraham Lincoln",
-    "text": "When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run."
-  },
-  {
-    "author": "Abraham Lincoln",
-    "text": "The best thing about the future is that it only comes one day at a time."
-  },
-  {
-    "author": "Abraham Lincoln",
-    "text": "Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing."
-  },
-  {
-    "author": "Abraham Lincoln",
-    "text": "As our case is new, we must think and act anew."
-  },
-  {
-    "author": "Abraham Lincoln",
-    "text": "Be sure you put your feet in the right place, then stand firm."
-  },
-  {
-    "author": "Abraham Lincoln",
-    "text": "Always bear in mind that your own resolution to succeed is more important than any one thing."
-  },
-  {
-    "author": "Abraham Lincoln",
-    "text": "I walk slowly, but I never walk backward."
-  },
-  {
-    "author": "Abraham Lincoln",
-    "text": "Truth is generally the best vindication against slander."
-  },
-  {
-    "author": "Abraham Lincoln",
-    "text": "Most folks are as happy as they make up their minds to be."
-  },
-  {
-    "author": "Abraham Lincoln",
-    "text": "I will prepare and some day my chance will come."
-  },
-  {
-    "author": "Abraham Maslow",
-    "text": "What is necessary to change a person is to change his awareness of himself."
-  },
-  {
-    "author": "Aesop",
-    "text": "No act of kindness, no matter how small, is ever wasted."
-  },
-  {
-    "author": "Ajahn Chah",
-    "text": "If you let go a little, you will have a little peace. If you let go a lot, you will have a lot of peace."
-  },
-  {
-    "author": "Alan Watts",
-    "text": "No valid plans for the future can be made by those who have no capacity for living now."
-  },
-  {
-    "author": "Albert Camus",
-    "text": "Autumn is a second spring when every leaf is a flower."
-  },
-  {
-    "author": "Albert Camus",
-    "text": "In the depth of winter, I finally learned that there was within me an invincible summer."
-  },
-  {
-    "author": "Albert Einstein",
-    "text": "God always takes the simplest way."
-  },
-  {
-    "author": "Albert Einstein",
-    "text": "Learn from yesterday, live for today, hope for tomorrow."
-  },
-  {
-    "author": "Albert Einstein",
-    "text": "The only real valuable thing is intuition."
-  },
-  {
-    "author": "Albert Einstein",
-    "text": "Once we accept our limits, we go beyond them."
-  },
-  {
-    "author": "Albert Einstein",
-    "text": "Life is like riding a bicycle. To keep your balance you must keep moving."
-  },
-  {
-    "author": "Albert Einstein",
-    "text": "Feeling and longing are the motive forces behind all human endeavor and human creations."
-  },
-  {
-    "author": "Albert Einstein",
-    "text": "I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind."
-  },
-  {
-    "author": "Albert Einstein",
-    "text": "Try not to become a man of success, but rather try to become a man of value."
-  },
-  {
-    "author": "Albert Einstein",
-    "text": "When the solution is simple, God is answering."
-  },
-  {
-    "author": "Albert Einstein",
-    "text": "A man should look for what is, and not for what he thinks should be."
-  },
-  {
-    "author": "Albert Einstein",
-    "text": "Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create."
-  },
-  {
-    "author": "Albert Einstein",
-    "text": "If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut."
-  },
-  {
-    "author": "Albert Einstein",
-    "text": "Reality is merely an illusion, albeit a very persistent one."
-  },
-  {
-    "author": "Albert Einstein",
-    "text": "Peace cannot be kept by force. It can only be achieved by understanding."
-  },
-  {
-    "author": "Albert Einstein",
-    "text": "We cannot solve our problems with the same thinking we used when we created them."
-  },
-  {
-    "author": "Albert Einstein",
-    "source": "https://en.wikiquote.org/wiki/Albert_Einstein",
-    "tags": "intelligence, knowledge, simplicity, understanding",
-    "text": "If you can't explain it simply, you don't understand it well enough."
-  },
-  {
-    "author": "Albert Einstein",
-    "source": "https://www.goodreads.com/quotes/38836",
-    "tags": "imagination, creativity, inspiration",
-    "text": "Imagination is everything. It is the preview of life's coming attractions."
   },
   {
     "author": "Albert Einstein",
@@ -1269,18 +1110,6 @@ export const quotes = [
     "text": "Risk more than others think is safe. Care more than others think is wise. Dream more than others think is practical.Expect more than others think is possible."
   },
   {
-    "author": "Calvin Coolidge",
-    "text": "We cannot do everything at once, but we can do something at once."
-  },
-  {
-    "author": "Calvin Coolidge",
-    "text": "I have never been hurt by anything I didn't say."
-  },
-  {
-    "author": "Cardinal Retz",
-    "text": "A man who doesn't trust himself can never really trust anyone else."
-  },
-  {
     "author": "Carl Bard",
     "text": "Though no one can go back and make a brand new start, anyone can start from not and make a brand new ending."
   },
@@ -1355,10 +1184,6 @@ export const quotes = [
   {
     "author": "Carla Gordon",
     "text": "If someone in your life talked to you the way you talk to yourself, you would have left them long ago."
-  },
-  {
-    "author": "Carlos Castaneda",
-    "text": "The trick is in what one emphasizes. We either make ourselves miserable, or we make ourselves happy. The amount of work is the same."
   },
   {
     "author": "Carlyle",
@@ -2859,10 +2684,6 @@ export const quotes = [
   },
   {
     "author": "Henri-Frederic Amiel",
-    "text": "So long as a person is capable of self-renewal they are a living being."
-  },
-  {
-    "author": "Henri-Frederic Amiel",
     "text": "Work while you have the light. You are responsible for the talent that has been entrusted to you."
   },
   {
@@ -3620,10 +3441,6 @@ export const quotes = [
   {
     "author": "Lao Tzu",
     "text": "If you correct your mind, the rest of your life will fall into place."
-  },
-  {
-    "author": "Lao Tzu",
-    "text": "If you would take, you must first give, this is the beginning of intelligence."
   },
   {
     "author": "Lao Tzu",
